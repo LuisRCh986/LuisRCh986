@@ -15,25 +15,25 @@
 ## 🛠️ Mi Stack Tecnológico y Herramientas
 
 ### 🖥️ Desarrollo Backend & Arquitectura
-<p align="center">
-  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="Java" title="Java"/></a>&nbsp;
-  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="Spring Boot" title="Spring Boot"/></a>&nbsp;
-  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="Python" title="Python"/></a>&nbsp;
-  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="Django" title="Django"/></a>&nbsp;
-  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="FastAPI" title="FastAPI"/></a>&nbsp;
-  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="NestJS" title="NestJS"/></a>&nbsp;
-  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="JavaScript" title="JavaScript"/></a>
+<p align="left">
+  <a href="#"><img src="https://jsdelivr.net" width="55" height="55" alt="Java" title="Java"/></a>&nbsp;
+  <a href="#"><img src="https://jsdelivr.net" width="55" height="55" alt="Spring Boot" title="Spring Boot"/></a>&nbsp;
+  <a href="#"><img src="https://jsdelivr.net" width="55" height="55" alt="Python" title="Python"/></a>&nbsp;
+  <a href="#"><img src="https://jsdelivr.net" width="55" height="55" alt="Django" title="Django"/></a>&nbsp;
+  <a href="#"><img src="https://jsdelivr.net" width="55" height="55" alt="FastAPI" title="FastAPI"/></a>&nbsp;
+  <a href="#"><img src="https://jsdelivr.net" width="55" height="55" alt="NestJS" title="NestJS"/></a>&nbsp;
+  <a href="#"><img src="https://jsdelivr.net" width="55" height="55" alt="JavaScript" title="JavaScript"/></a>
 </p>
 
 ### 🎨 Desarrollo Frontend
-<p align="left">
+<p align="center">
   <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="TypeScript" title="TypeScript"/></a>&nbsp;
   <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="Next.js" title="Next.js"/></a>&nbsp;
   <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="Astro" title="Astro"/></a>
 </p>
 
 ### 🗄️ Base de Datos & Despliegue (Cloud)
-<p align="left">
+<p align="center">
   <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="PostgreSQL" title="PostgreSQL"/></a>&nbsp;
   <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="Supabase" title="Supabase"/></a>&nbsp;
   <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="Vercel" title="Vercel"/></a>
