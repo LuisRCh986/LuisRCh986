@@ -15,7 +15,7 @@
 ## 🛠️ Mi Stack Tecnológico y Herramientas
 
 ### 🖥️ Desarrollo Backend & Arquitectura
-<p align="left">
+<p align="center">
   <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="Java" title="Java"/></a>&nbsp;
   <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="Spring Boot" title="Spring Boot"/></a>&nbsp;
   <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="Python" title="Python"/></a>&nbsp;
