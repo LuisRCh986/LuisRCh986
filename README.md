@@ -1,4 +1,4 @@
-# ¡Hola! Soy Luis Ramos👋
+# ¡Hola! Soy Luis Ramos
 
 ###  Ingeniero de Sistemas & Desarrollador Software Full-Stack
 *Buscando desafiar los límites del software a través de arquitectura limpia, eficiencia y soluciones inteligentes.*
@@ -12,96 +12,69 @@
 
 ---
 
-## 🛠️ Mi Stack Tecnológico y Herramientas
+## Mi Stack Tecnológico y Herramientas
 
-### 🖥️ Desarrollo Backend & Arquitectura
-<p align="left">
-  <a href="#"><img src="https://jsdelivr.net" width="55" height="55" alt="Java" title="Java"/></a>&nbsp;
-  <a href="#"><img src="https://jsdelivr.net" width="55" height="55" alt="Spring Boot" title="Spring Boot"/></a>&nbsp;
-  <a href="#"><img src="https://jsdelivr.net" width="55" height="55" alt="Python" title="Python"/></a>&nbsp;
-  <a href="#"><img src="https://jsdelivr.net" width="55" height="55" alt="Django" title="Django"/></a>&nbsp;
-  <a href="#"><img src="https://jsdelivr.net" width="55" height="55" alt="FastAPI" title="FastAPI"/></a>&nbsp;
-  <a href="#"><img src="https://jsdelivr.net" width="55" height="55" alt="NestJS" title="NestJS"/></a>&nbsp;
-  <a href="#"><img src="https://jsdelivr.net" width="55" height="55" alt="JavaScript" title="JavaScript"/></a>
-</p>
-
-### 🎨 Desarrollo Frontend
+### Desarrollo Backend & Arquitectura
 <p align="center">
-  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="TypeScript" title="TypeScript"/></a>&nbsp;
-  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="Next.js" title="Next.js"/></a>&nbsp;
-  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="Astro" title="Astro"/></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,spring,python,django,fastapi,nestjs,javascript" />
+  </a>
 </p>
 
-### 🗄️ Base de Datos & Despliegue (Cloud)
+
+### Desarrollo Frontend
 <p align="center">
-  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="PostgreSQL" title="PostgreSQL"/></a>&nbsp;
-  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="Supabase" title="Supabase"/></a>&nbsp;
-  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="Vercel" title="Vercel"/></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,nextjs,astro" />
+  </a>
 </p>
 
-### 🤖 Inteligencia Artificial & Productividad
-<p align="left">
-  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="OpenCV" title="OpenCV"/></a>&nbsp;
-  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="NumPy" title="NumPy"/></a>&nbsp;
-  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="GitHub" title="GitHub"/></a>
+### Base de Datos & Despliegue (Cloud)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgresql,supabase,vercel" />
+  </a>
+</p>
+
+### Inteligencia Artificial & Productividad
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=opencv,pytorch,github" />
+  </a>
 </p>
 
 
 ---
 
-## 🎯 Enfoque Profesional & Filosofía de Diseño
-*   📐 **Arquitectura de Software:** Aplicación rigurosa de *Clean Architecture* y Principios *SOLID* para asegurar software mantenible.
-*   🧠 **Inteligencia Artificial Aplicada:** Experiencia implementando modelos preentrenados de visión artificial (Detección y reconocimiento facial).
-*   🛡️ **Sectores de Interés:** Apasionado por los desafíos técnicos en *Fintech, E-Commerce, Inteligencia Artificial y Ciberseguridad*.
+## Enfoque Profesional & Filosofía de Diseño
+*   **Arquitectura de Software:** Aplicación rigurosa de *Clean Architecture* y Principios *SOLID* para asegurar software mantenible.
+*   **Inteligencia Artificial Aplicada:** Experiencia implementando modelos preentrenados de visión artificial (Detección y reconocimiento facial).
+*   **Sectores de Interés:** Apasionado por los desafíos técnicos en *Fintech, E-Commerce, Inteligencia Artificial y Ciberseguridad*.
 
 ---
 
-## 📈 Aprendizaje Masivo Activo (En Progreso)
+## Aprendizaje Masivo Activo (En Progreso)
 Demostrando mi compromiso con la evolución tecnológica constante, actualmente me encuentro dominando de forma agresiva:
-*   🏗️ **Ecosistema Corporativo:** Desarrollo empresarial avanzado con `.NET` y `C#`.
-*   🔒 **Ciberseguridad:** Fundamentos de DevSecOps y bastionado de aplicaciones.
-*   📚 **Lectura Actual:** *Fundamentals of Software Architecture* (O'Reilly) por Mark Richards y Neal Ford.
+*   **Ecosistema Corporativo:** Desarrollo empresarial avanzado con `.NET` y `C#`.
+*   **Ciberseguridad:** Fundamentos de DevSecOps y bastionado de aplicaciones.
+*   **Lectura Actual:** *Fundamentals of Software Architecture* (O'Reilly) por Mark Richards y Neal Ford.
 
 ---
 
-## 📊 Mis Estadísticas en Tiempo Real
+## Mis Estadísticas en Tiempo Real
 
-<p align="center">
-  <!-- GitHub Readme Stats con soporte adaptativo Claro/Oscuro -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://vercel.app">
-    <source media="(prefers-color-scheme: light)" srcset="https://vercel.app">
-    <img alt="Estadísticas de GitHub de Luis" src="https://vercel.app" width="49%">
-  </picture>
-  
-  <!-- GitHub Readme Streak Stats con soporte adaptativo Claro/Oscuro -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://herokuapp.com">
-    <source media="(prefers-color-scheme: light)" srcset="https://herokuapp.com">
-    <img alt="Racha de Commits de Luis" src="https://herokuapp.com" width="49%">
-  </picture>
-</p>
-
-<p align="center">
-  <!-- Lenguajes más usados adaptativo -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://vercel.app">
-    <source media="(prefers-color-scheme: light)" srcset="https://vercel.app">
-    <img alt="Lenguajes más usados" src="https://vercel.app" width="60%">
-  </picture>
-</p>
+###$####
 
 ---
 
-## 🤝 Conectemos
+## Conectemos
 ¡Siempre abierto a conversar sobre software, patrones de diseño o nuevas tecnologías!
 
-*   💼 **LinkedIn:** [www.linkedin.com/in/luis-angel-ramos-chiroque-36b21b257](https://linkedin.com) 
-*   🌐 **Portafolio:** ¡Próximamente disponible! 
-*   📧 **Correo:** [ramoschiroqueluis3@gmail.com](mailto:tu-correo@gmail.com)
+*   **LinkedIn:** [www.linkedin.com/in/luis-angel-ramos-chiroque-36b21b257](https://linkedin.com) 
+*   **Portafolio:** ¡Próximamente disponible! 
+*   **Correo:** [ramoschiroqueluis3@gmail.com](mailto:tu-correo@gmail.com)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LuisRCh986&hide_border=true&locale=es&short_numbers=true&date_format=%5BY%20%5DM%20j&card_width=560&card_height=300)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LuisRCh986&theme=whatsapp-dark2&hide_border=true&border_radius=5&date_format=%5BY%20%5DM%20j&card_width=1600&card_height=500&type=png)](https://git.io/streak-stats)
 
 
 <!--
