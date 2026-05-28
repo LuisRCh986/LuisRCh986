@@ -15,28 +15,37 @@
 ## 🛠️ Mi Stack Tecnológico y Herramientas
 
 ### 🖥️ Desarrollo Backend & Arquitectura
-![Java](https://shields.io)
-![Spring Boot](https://shields.io)
-![Python](https://shields.io)
-![Django](https://shields.io)
-![FastAPI](https://shields.io)
-![NestJS](https://shields.io)
+<p align="left">
+  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="Java" title="Java"/></a>&nbsp;
+  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="Spring Boot" title="Spring Boot"/></a>&nbsp;
+  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="Python" title="Python"/></a>&nbsp;
+  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="Django" title="Django"/></a>&nbsp;
+  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="FastAPI" title="FastAPI"/></a>&nbsp;
+  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="NestJS" title="NestJS"/></a>&nbsp;
+  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="JavaScript" title="JavaScript"/></a>
+</p>
 
 ### 🎨 Desarrollo Frontend
-![TypeScript](https://shields.io)
-![Next.js](https://shields.io)
-![Astro](https://shields.io)
+<p align="left">
+  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="TypeScript" title="TypeScript"/></a>&nbsp;
+  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="Next.js" title="Next.js"/></a>&nbsp;
+  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="Astro" title="Astro"/></a>
+</p>
 
 ### 🗄️ Base de Datos & Despliegue (Cloud)
-![PostgreSQL](https://shields.io)
-![Supabase](https://shields.io)
-![Vercel](https://shields.io)
-![Render](https://shields.io)
+<p align="left">
+  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="PostgreSQL" title="PostgreSQL"/></a>&nbsp;
+  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="Supabase" title="Supabase"/></a>&nbsp;
+  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="Vercel" title="Vercel"/></a>
+</p>
 
 ### 🤖 Inteligencia Artificial & Productividad
-![OpenCV](https://shields.io)
-![NumPy](https://shields.io)
-![GitHub Copilot](https://shields.io)
+<p align="left">
+  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="OpenCV" title="OpenCV"/></a>&nbsp;
+  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="NumPy" title="NumPy"/></a>&nbsp;
+  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="GitHub" title="GitHub"/></a>
+</p>
+
 
 ---
 
@@ -87,11 +96,11 @@ Demostrando mi compromiso con la evolución tecnológica constante, actualmente 
 ## 🤝 Conectemos
 ¡Siempre abierto a conversar sobre software, patrones de diseño o nuevas tecnologías!
 
-*   💼 **LinkedIn:** [www.linkedin.com/in/luis-angel-ramos-chiroque-36b21b257](https://linkedin.com) *(Reemplaza con tu enlace real)*
-*   🌐 **Portafolio:** ¡Próximamente disponible! 🚀
+*   💼 **LinkedIn:** [www.linkedin.com/in/luis-angel-ramos-chiroque-36b21b257](https://linkedin.com) 
+*   🌐 **Portafolio:** ¡Próximamente disponible! 
 *   📧 **Correo:** [ramoschiroqueluis3@gmail.com](mailto:tu-correo@gmail.com)
 
-[![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com?user=LuisRCh986&hide_border=falso&locale=es&short_numbers=verdadero&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LuisRCh986&hide_border=true&locale=es&short_numbers=true&date_format=%5BY%20%5DM%20j&card_width=560&card_height=300)](https://git.io/streak-stats)
 
 
 
