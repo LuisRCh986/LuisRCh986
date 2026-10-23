@@ -1,96 +1,131 @@
-<p align="center">
-  <img src="./assets/hero.png" alt="Luis Ramos. Ingeniero de Sistemas y desarrollador full-stack. Software útil, diseño con criterio." width="100%" />
-</p>
+<h1 align="center">Luis Ramos</h1>
 
 <p align="center">
-  <strong>Convierto requisitos complejos en aplicaciones web claras, mantenibles y útiles.</strong><br />
-  Desarrollo full-stack, automatización e inteligencia artificial aplicada.
+  <strong>Desarrollador Fullstack Junior · Python, Django y React</strong>
 </p>
 
 <p align="center">
-  <a href="https://luisramosdev.com/"><img src="./assets/portfolio.svg" alt="Explorar mi portafolio" height="40" /></a>
-  <a href="https://www.linkedin.com/in/luis-angel-ramos-chiroque-36b21b257/"><img src="./assets/linkedin.svg" alt="Conectar con Luis en LinkedIn" height="40" /></a>
-  <a href="mailto:ramoschiroqueluis3@gmail.com"><img src="./assets/email.svg" alt="Escribir a Luis por correo" height="40" /></a>
+  Interfaces, APIs y bases de datos para resolver necesidades concretas.<br />
+  Egresado de Ingeniería de Sistemas · Lambayeque, Perú
 </p>
 
 <p align="center">
-  <a href="#proyecto-destacado">Proyecto destacado</a> ·
-  <a href="#tecnologías">Tecnologías</a> ·
-  <a href="#conversemos">Contacto</a>
+  <a href="https://luisramosdev.com/">Portafolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://luisramosdev.com/resume">CV</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/luis-angel-ramos-chiroque-36b21b257/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:ramoschiroqueluis3@gmail.com">Correo</a>
 </p>
 
-## Lo que puedo aportar
-
-Soy **Ingeniero de Sistemas y desarrollador de software full-stack**. Me interesa entender el problema antes de elegir la tecnología y construir soluciones que puedan evolucionar con el producto.
-
-| Si necesitas… | Puedo aportar… |
-| :--- | :--- |
-| Convertir una idea en una aplicación | Desarrollo de interfaces, APIs y persistencia de datos en un mismo flujo. |
-| Reducir trabajo manual | Automatización e integración de servicios e inteligencia artificial. |
-| Mantener y ampliar un sistema | Separación de responsabilidades, validaciones y pruebas automatizadas. |
-| Incorporar visión por computador | Experiencia integrando modelos preentrenados de detección y reconocimiento facial. |
-
-## Proyecto destacado
-
-### Asistente de investigación con IA
-
-**Una herramienta para ayudar a estudiantes a explorar títulos de investigación a partir de su contexto y problema de estudio.**
-
-Proyecto académico colaborativo en evolución, con frontend y API separados.
-
-- **Para el estudiante:** formulario guiado, propuestas con explicación metodológica, recuperación de borradores y exportación de resultados.
-- **En la implementación:** validación de entradas, control de consultas, guardado transaccional y seguimiento del consumo de IA.
-- **En la calidad:** pruebas automatizadas y comprobaciones de integración continua.
-
-**Stack:** Next.js · TypeScript · FastAPI · PostgreSQL · Gemini
-
-[Explorar el frontend →](https://github.com/LuisRCh986/sistema-titulos-ia) &nbsp;·&nbsp; [Explorar la API →](https://github.com/LuisRCh986/titulos-ai-backend)
-
-<p>
-  <strong>Frontend</strong> <a href="https://github.com/LuisRCh986/sistema-titulos-ia/actions/workflows/reliability.yml"><img src="https://github.com/LuisRCh986/sistema-titulos-ia/actions/workflows/reliability.yml/badge.svg?branch=main" alt="Estado actual de CI del frontend" /></a>
-  <strong>API</strong> <a href="https://github.com/LuisRCh986/titulos-ai-backend/actions/workflows/reliability.yml"><img src="https://github.com/LuisRCh986/titulos-ai-backend/actions/workflows/reliability.yml/badge.svg?branch=main" alt="Estado actual de CI del backend" /></a>
+<p align="center">
+  <img
+    src="./assets/profile-flow.svg"
+    alt="Mi enfoque de trabajo: entender la necesidad, diseñar la solución, construir y comprobar."
+    width="100%"
+  />
 </p>
 
-## Cómo trabajo
+## Sobre mí
 
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/workflow-static.png" />
-  <img src="./assets/workflow.gif" alt="Mi proceso: entender el problema, diseñar la solución, construir y entregar." width="100%" />
-</picture>
+Tengo experiencia de prácticas contribuyendo al desarrollo de un ERP
+con **Django, Django REST Framework y React**.
 
-**Entender** la necesidad → **Diseñar** una solución proporcional → **Construir** con pruebas → **Entregar** y mejorar.
+He trabajado en formularios, integración de APIs, validaciones de negocio
+y funcionalidades de ventas, inventario y producción. También he desarrollado
+proyectos académicos de gestión e integración de servicios.
 
-Aplico principios **SOLID** y **Clean Architecture** para organizar el código cuando el contexto lo requiere. Busco decisiones que faciliten el mantenimiento y una experiencia sencilla para quien usa el producto.
+Busco oportunidades de **prácticas y desarrollo fullstack junior** donde pueda
+aportar al equipo, recibir feedback y seguir fortaleciendo mis conocimientos.
+
+## Experiencia práctica
+
+**Practicante de Desarrollo de Software · Sysflexify Technologies S.A.C**  
+Noviembre de 2025 – octubre de 2026
+
+- Contribuí al desarrollo de funcionalidades de ventas, inventario y producción.
+- Implementé validaciones de crédito, pagos parciales y controles para prevenir órdenes duplicadas.
+- Desarrollé formularios con React y TypeScript integrados con la API del backend.
+- Implementé funcionalidades de envasado y exportación del Kardex a Excel.
+- Utilicé Git y GitHub para registrar cambios, resolver conflictos y colaborar mediante pull requests.
+
+## Proyectos seleccionados
+
+### 01 · Gestión de Semilleros de Investigación
+
+Aplicación web para centralizar procesos administrativos y solicitudes
+de semilleros de investigación.
+
+**Mi aportación:** flujos de estados, permisos por rol, interfaz responsiva
+y pruebas automatizadas de formularios, reglas de negocio y autorización.
+
+**Tecnologías:** Python · Django · PostgreSQL · Tailwind CSS · HTMX · Alpine.js
+
+[Ver el proyecto y sus interfaces →](https://luisramosdev.com/portfolio/semilleros-unprg)
+
+### 02 · Perfil Docente 360
+
+Aplicación para consolidar información académica y facilitar su consulta
+y exportación como currículum.
+
+**Mi aportación:** integración entre frontend y API, procesamiento de extracción
+de datos con Redis y Python, paneles de visualización y vista de impresión A4.
+
+**Tecnologías:** Next.js · NestJS · Python · PostgreSQL · Redis
+
+[Explorar el proyecto →](https://luisramosdev.com/portfolio/perfil-docente-360)
+
+### 03 · Portafolio profesional
+
+Sitio publicado para presentar mi experiencia, proyectos y perfil profesional.
+
+**Mi aportación:** interfaz responsiva, animaciones, formulario con validación
+en el servidor, integración con Resend y configuración del despliegue con dominio
+propio y HTTPS.
+
+**Tecnologías:** Next.js · React · TypeScript · Tailwind CSS · Framer Motion · Netlify
+
+[Visitar el portafolio →](https://luisramosdev.com/)
 
 ## Tecnologías
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,typescript,nextjs,postgres,github,vercel&theme=dark" alt="Python, FastAPI, TypeScript, Next.js, PostgreSQL, GitHub y Vercel" />
-</p>
-
 | Área | Tecnologías y herramientas |
 | :--- | :--- |
-| **Backend** | Python · FastAPI · Django · Java · Spring · NestJS |
-| **Frontend** | TypeScript · JavaScript · Next.js · Astro |
-| **Datos y despliegue** | PostgreSQL · Supabase · Vercel |
-| **IA y visión por computador** | OpenCV · PyTorch · Integración de modelos preentrenados |
-| **Otros lenguajes** | C · C++ |
+| **Backend** | Python · Django · Django REST Framework · APIs REST |
+| **Frontend** | JavaScript · TypeScript · React · Next.js · HTML · CSS · Tailwind CSS |
+| **Datos** | SQL · PostgreSQL · Supabase |
+| **Herramientas** | Git · GitHub · Postman · Docker |
+| **Diseño** | Figma |
 
 <details>
-<summary><strong>En qué estoy profundizando</strong></summary>
+<summary><strong>Herramientas utilizadas en otros proyectos</strong></summary>
 
-- **C# y .NET:** desarrollo de aplicaciones empresariales.
-- **DevSecOps y seguridad:** fundamentos de seguridad y bastionado de aplicaciones.
-- **Arquitectura:** lectura de *Fundamentals of Software Architecture*, de Mark Richards y Neal Ford.
-- **Sectores de interés:** fintech, comercio electrónico, inteligencia artificial y ciberseguridad.
+También he trabajado con FastAPI, NestJS, Redis, HTMX y Alpine.js
+en proyectos específicos. En las fichas del portafolio explico
+el contexto en el que utilicé cada herramienta.
 
 </details>
 
+## Cómo trabajo y qué estoy reforzando
+
+Procuro entender la necesidad, dividirla en tareas pequeñas y comprobar
+el comportamiento de cada funcionalidad antes de darla por terminada.
+
+Actualmente estoy reforzando:
+
+- Fundamentos de JavaScript, TypeScript y React.
+- Consultas SQL y modelado de datos.
+- Autenticación, permisos y validación de APIs.
+- Pruebas automatizadas y depuración.
+- Comunicación de decisiones y colaboración mediante revisión de código.
+
 ## Conversemos
 
-Me interesa conversar sobre **oportunidades de desarrollo full-stack**, colaboración en productos y aplicaciones de inteligencia artificial.
+Me interesa participar en equipos donde pueda contribuir al desarrollo
+de aplicaciones web y continuar aprendiendo.
 
-**[Ver portafolio](https://luisramosdev.com/)** · **[Conectar en LinkedIn](https://www.linkedin.com/in/luis-angel-ramos-chiroque-36b21b257/)** · **[Enviar un correo](mailto:ramoschiroqueluis3@gmail.com)**
-
-<sub>También puedes explorar mis repositorios y la actividad de contribuciones en este perfil.</sub>
-
+**[Portafolio](https://luisramosdev.com/)** ·
+**[CV](https://luisramosdev.com/resume)** ·
+**[LinkedIn](https://www.linkedin.com/in/luis-angel-ramos-chiroque-36b21b257/)** ·
+**[Correo](mailto:ramoschiroqueluis3@gmail.com)**
