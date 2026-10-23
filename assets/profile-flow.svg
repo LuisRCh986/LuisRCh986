@@ -1,0 +1,95 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="960"
+  height="200"
+  viewBox="0 0 960 200"
+  role="img"
+  aria-labelledby="title description"
+>
+  <title id="title">Del problema a una funcionalidad comprobable</title>
+  <desc id="description">
+    Cuatro pasos conectados: entender, diseñar, construir y comprobar.
+  </desc>
+
+  <style>
+    .card {
+      fill: #161b22;
+      stroke: #30363d;
+      stroke-width: 1;
+    }
+
+    .step {
+      fill: #8b949e;
+      font: 12px ui-monospace, SFMono-Regular, Consolas, monospace;
+      letter-spacing: 1px;
+    }
+
+    .label {
+      fill: #f0f6fc;
+      font: 600 21px system-ui, -apple-system, "Segoe UI", sans-serif;
+    }
+
+    .connection {
+      fill: none;
+      stroke: #58a6ff;
+      stroke-width: 2;
+      stroke-linecap: round;
+      stroke-dasharray: 6 10;
+      animation: flow 8s linear infinite;
+    }
+
+    @keyframes flow {
+      from {
+        stroke-dashoffset: 0;
+      }
+      to {
+        stroke-dashoffset: -64;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .connection {
+        animation: none;
+      }
+    }
+  </style>
+
+  <rect
+    x="1"
+    y="1"
+    width="958"
+    height="198"
+    rx="22"
+    fill="#0d1117"
+    stroke="#30363d"
+  />
+
+  <path
+    class="connection"
+    d="M228 100 H260 M464 100 H496 M700 100 H732"
+  />
+
+  <g transform="translate(24 52)">
+    <rect class="card" width="204" height="96" rx="14" />
+    <text class="step" x="20" y="29">01 / CONTEXTO</text>
+    <text class="label" x="20" y="65">Entender</text>
+  </g>
+
+  <g transform="translate(260 52)">
+    <rect class="card" width="204" height="96" rx="14" />
+    <text class="step" x="20" y="29">02 / SOLUCIÓN</text>
+    <text class="label" x="20" y="65">Diseñar</text>
+  </g>
+
+  <g transform="translate(496 52)">
+    <rect class="card" width="204" height="96" rx="14" />
+    <text class="step" x="20" y="29">03 / DESARROLLO</text>
+    <text class="label" x="20" y="65">Construir</text>
+  </g>
+
+  <g transform="translate(732 52)">
+    <rect class="card" width="204" height="96" rx="14" />
+    <text class="step" x="20" y="29">04 / VALIDACIÓN</text>
+    <text class="label" x="20" y="65">Comprobar</text>
+  </g>
+</svg>
